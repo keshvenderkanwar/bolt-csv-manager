@@ -1,1 +1,1 @@
-# bolt-csv-manager
+# wp-csv-manager
